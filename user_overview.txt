@@ -1,0 +1,70 @@
+		User admin
+The total tasks assigned to the user is : 2
+The percentage of the total number of tasks assigned to the user is : 50.0%
+The percentage of the tasks completed is : 50.0%
+The percentage of the tasks that is uncompleted is : 50.0%
+The percentage of tasks that is uncompleted and overdue : 50.0%
+
+		User Adriaan
+The total tasks assigned to the user is : 1
+The percentage of the total number of tasks assigned to the user is : 25.0%
+The percentage of the tasks completed is : 0.0%
+The percentage of the tasks that is uncompleted is : 100.0%
+The percentage of tasks that is uncompleted and overdue : 100.0%
+
+		User Carina
+The total tasks assigned to the user is : 1
+The percentage of the total number of tasks assigned to the user is : 25.0%
+The percentage of the tasks completed is : 0.0%
+The percentage of the tasks that is uncompleted is : 100.0%
+The percentage of tasks that is uncompleted and overdue : 100.0%
+
+		User Wihan
+The total tasks assigned to the user is : 0
+The percentage of the total number of tasks assigned to the user is : 0%
+The percentage of the tasks completed is : 0%
+The percentage of the tasks that is uncompleted is : 0%
+The percentage of tasks that is uncompleted and overdue : 0%
+
+		User Hein
+The total tasks assigned to the user is : 0
+The percentage of the total number of tasks assigned to the user is : 0%
+The percentage of the tasks completed is : 0%
+The percentage of the tasks that is uncompleted is : 0%
+The percentage of tasks that is uncompleted and overdue : 0%
+
+		User Justin
+The total tasks assigned to the user is : 0
+The percentage of the total number of tasks assigned to the user is : 0%
+The percentage of the tasks completed is : 0%
+The percentage of the tasks that is uncompleted is : 0%
+The percentage of tasks that is uncompleted and overdue : 0%
+
+		User Teven
+The total tasks assigned to the user is : 0
+The percentage of the total number of tasks assigned to the user is : 0%
+The percentage of the tasks completed is : 0%
+The percentage of the tasks that is uncompleted is : 0%
+The percentage of tasks that is uncompleted and overdue : 0%
+
+		User Courage
+The total tasks assigned to the user is : 0
+The percentage of the total number of tasks assigned to the user is : 0%
+The percentage of the tasks completed is : 0%
+The percentage of the tasks that is uncompleted is : 0%
+The percentage of tasks that is uncompleted and overdue : 0%
+
+		User Josh
+The total tasks assigned to the user is : 0
+The percentage of the total number of tasks assigned to the user is : 0%
+The percentage of the tasks completed is : 0%
+The percentage of the tasks that is uncompleted is : 0%
+The percentage of tasks that is uncompleted and overdue : 0%
+
+		User John
+The total tasks assigned to the user is : 0
+The percentage of the total number of tasks assigned to the user is : 0%
+The percentage of the tasks completed is : 0%
+The percentage of the tasks that is uncompleted is : 0%
+The percentage of tasks that is uncompleted and overdue : 0%
+
